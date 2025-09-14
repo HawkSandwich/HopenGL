@@ -1,0 +1,21 @@
+# Visual Studio cache and build files
+.vs/
+*.vc.db
+*.suo
+*.user
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.log
+*.obj
+*.exe
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# DLLs
+*.dll
